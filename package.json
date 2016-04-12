@@ -1,0 +1,18 @@
+{
+  "name": "diskew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "expect": "^1.16.0",
+    "ioredis": "^1.15.1",
+    "lodash": "^4.10.0",
+    "mocha": "^2.4.5",
+    "redis": "^2.6.0-1"
+  }
+}
